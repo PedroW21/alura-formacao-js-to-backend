@@ -20,3 +20,5 @@ const somaNumerosPequenos = (num1, num2) => {
 
 // operador maior ou igual que
 // >=
+
+console.log(apresentar("Pedro"));
